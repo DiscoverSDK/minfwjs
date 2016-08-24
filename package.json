@@ -1,6 +1,6 @@
 {
   "name": "minfwjs",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "minimal javascript framework for learning purpose",
   "main": "src/index.js",
   "scripts": {
