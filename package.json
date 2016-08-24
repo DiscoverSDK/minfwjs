@@ -1,0 +1,22 @@
+{
+  "name": "minfwjs",
+  "version": "1.0.0",
+  "description": "minimal javascript framework for learning purpose",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiscoverSDK/minfwjs.git"
+  },
+  "keywords": [
+    "javacript"
+  ],
+  "author": "Liran BH <liran@discoversdk.com> (http://www.discoversdk.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiscoverSDK/minfwjs/issues"
+  },
+  "homepage": "https://github.com/DiscoverSDK/minfwjs#readme"
+}
